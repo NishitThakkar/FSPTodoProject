@@ -1,0 +1,15 @@
+.lt_inner{
+    height: fit-content;
+    width: 500px;
+    background-color: rgb(47, 47, 47);
+    padding: 0;
+    color: white;
+    padding: 25px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; */
+}

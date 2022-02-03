@@ -1,0 +1,77 @@
+body{
+    background-color: rgb(218, 218, 218);
+    height: 88vh;
+    /* margin-top: -20px; */
+
+}
+.login_wrapper{
+    margin-top: 20px;
+}
+.login_main{
+    height: 300px;
+    width: 400px;
+    /* border: 1px solid; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 10px;
+    margin: 20px auto;
+    background-color: rgb(230, 230, 230);
+    box-shadow: 1px 2px 8px 1px #a5a5a5;
+
+    
+}
+
+.login_h3{
+    /* color: rgb(119, 0, 0); */
+    font-size: 40px;
+    margin: 0px auto 30px;
+    border-bottom: 2px solid red;
+    width: 350px;
+    padding: 0 0 15px 0;
+}
+
+.cr_main{
+    height: 400px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 10px;
+    margin: 0 auto;
+    background-color: rgb(230, 230, 230);
+    box-shadow: 1px 2px 8px 1px #a5a5a5;
+
+}
+
+.login_link{
+    border: 1px solid rgb(0, 0, 0);
+    padding: 3px 7px;
+    border-radius: 10px;
+}
+
+
+.login_btn{
+    border: 0px solid rgb(0, 0, 0);
+    padding: 3px 7px;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+    padding: 10px 20px;
+    font-weight: 500;
+}
+
+.login_btn:hover{
+    color: black;
+    background-color: white;
+    border: 1px solid;
+    padding:9px 20px ;
+    
+}
+
+.login_link:hover{
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
